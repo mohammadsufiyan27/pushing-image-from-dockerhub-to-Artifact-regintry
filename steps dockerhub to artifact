@@ -1,0 +1,3 @@
+docker pull sonatype/nexus3
+docker tag sonatype/nexus3 asia-south2-docker.pkg.dev/shining-haiku-400115/practise/nexus:v1
+docker push asia-south2-docker.pkg.dev/shining-haiku-400115/practise/nexus:v1
